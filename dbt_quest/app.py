@@ -3,8 +3,8 @@ from sqlalchemy import create_engine
 from sqlalchemy_utils import database_exists, create_database
 
 # Paramètres de connexion.
-username = "A Desplanques"
-password = "Felixestbornleday1dumonth4delan2023."
+username = "***"
+password = "***"
 host = "localhost"
 port = 3306
 database = "my_dbt_db"
